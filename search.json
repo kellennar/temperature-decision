@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "Data provided by the original researchers."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This project is created by Kellen Narke. Email: kellen.narke@gmail.com Github: https://github.com/kellennar\nThis project replicates components of an economic article. Github repo: https://github.com/kellennar/temperature-decision\nThis project was created as a part of Kane’s Data Science Bootcamp. Link: https://bootcamp.davidkane.info/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Temperature and Decisions",
+    "section": "",
+    "text": "Researchers have studied the relationship between temperature and judges’ decisions on asylum requests. The data was provided by scholars who previously studied this subject. We hope to replicate or adjust their findings. We plotted a random sample of 10,000 cases and their outcomes arranged by temperature. A visualization of the data suggests that an increase in temperature is associated with a decreased likelihood of rulings in favor of asylum applicants.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
