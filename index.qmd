@@ -1,0 +1,9 @@
+---
+title: "Temperature and Decisions"
+---
+
+Researchers have studied the relationship between temperature and judges' decisions on asylum requests. The data was provided by scholars who previously studied this subject. We hope to replicate or adjust their findings. We plotted a random sample of 10,000 cases and their outcomes arranged by temperature. A visualization of the data suggests that an increase in temperature is associated with a decreased likelihood of rulings in favor of asylum applicants.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

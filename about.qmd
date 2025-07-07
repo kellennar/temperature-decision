@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+This project is created by Kellen Narke. Email: kellen.narke@gmail.com Github: https://github.com/kellennar
+
+This project replicates components of an economic article. Github repo: https://github.com/kellennar/temperature-decision
+
+This project was created as a part of Kane’s Data Science Bootcamp. Link: https://bootcamp.davidkane.info/
